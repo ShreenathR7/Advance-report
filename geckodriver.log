@@ -1,0 +1,148 @@
+1695874285043	geckodriver	INFO	Listening on 127.0.0.1:51892
+1695874288096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile57edmc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695874288432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695874288571	Marionette	INFO	Listening on port 51900
+WebDriver BiDi listening on ws://127.0.0.1:51893
+Read port: 51900
+1695874288812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51893/devtools/browser/ea8fae69-bfe9-484f-9704-d318d527309e
+1695874452691	Marionette	INFO	Stopped listening on port 51900
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileKn3xgV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695874341542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695874341662	Marionette	INFO	Listening on port 51961
+WebDriver BiDi listening on ws://127.0.0.1:51954
+Read port: 51961
+1695874341879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51954/devtools/browser/95ec8624-8e3c-411e-af8d-1900ed3ab1c0
+1695874354862	Marionette	INFO	Stopped listening on port 51961
+Dynamically enable window occlusion 1
+1695874426542	geckodriver	INFO	Listening on 127.0.0.1:52018
+1695874429567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileZ0UcU9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695874429965	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695874430082	Marionette	INFO	Listening on port 52026
+WebDriver BiDi listening on ws://127.0.0.1:52019
+Read port: 52026
+1695874430299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52019/devtools/browser/9e8c5fb2-be9d-4bde-a7db-685e8b378bc4
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1695874445117	Marionette	INFO	Stopped listening on port 52026
+Dynamically enable window occlusion 1
+1695875702347	geckodriver	INFO	Listening on 127.0.0.1:52715
+1695875705426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDy0xsu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695875705811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695875705928	Marionette	INFO	Listening on port 52725
+WebDriver BiDi listening on ws://127.0.0.1:52716
+Read port: 52725
+1695875706153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52716/devtools/browser/76d8943b-c1d6-45df-8626-d2c7bd364a4e
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1695876896641	Marionette	INFO	Stopped listening on port 52725
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilerM41b5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695876269493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695876269641	Marionette	INFO	Listening on port 53110
+WebDriver BiDi listening on ws://127.0.0.1:53102
+Read port: 53110
+1695876269719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53102/devtools/browser/b4ece3ca-18e1-4ccc-9487-307bbeebcb31
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1695876292260	Marionette	INFO	Stopped listening on port 53110
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695876321534	geckodriver	INFO	Listening on 127.0.0.1:53208
+1695876324583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileOaORWg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695876324931	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695876325060	Marionette	INFO	Listening on port 53217
+WebDriver BiDi listening on ws://127.0.0.1:53209
+Read port: 53217
+1695876325272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53209/devtools/browser/443ac553-aa6a-4dc0-9e16-d958fcfa95e0
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1695876897559	Marionette	INFO	Stopped listening on port 53217
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAUdvSx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695876819001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695876819130	Marionette	INFO	Listening on port 53656
+WebDriver BiDi listening on ws://127.0.0.1:53644
+Read port: 53656
+1695876819352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53644/devtools/browser/c270206d-9b51-4e13-99ce-b0b1f8540b7f
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1695876900391	Marionette	INFO	Stopped listening on port 53656
+Dynamically enable window occlusion 1
+1695884356311	geckodriver	INFO	Listening on 127.0.0.1:50620
+1695884359354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileEA2vq5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695884359656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695884359781	Marionette	INFO	Listening on port 50628
+Read port: 50628
+WebDriver BiDi listening on ws://127.0.0.1:50621
+1695884359868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50621/devtools/browser/b55b5b84-74bb-4d12-a41d-fedd9ee8feb6
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+1695884419966	Marionette	INFO	Stopped listening on port 50628
+Dynamically enable window occlusion 1
+1695884492137	geckodriver	INFO	Listening on 127.0.0.1:50729
+1695884495198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegQgz6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695884495576	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695884495698	Marionette	INFO	Listening on port 50739
+WebDriver BiDi listening on ws://127.0.0.1:50730
+Read port: 50739
+1695884495896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50730/devtools/browser/e6b91bd7-ae64-4715-acb6-6f503cf877d4
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695890086006	Marionette	INFO	Stopped listening on port 50739
+Dynamically enable window occlusion 1
